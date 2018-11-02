@@ -1,0 +1,21 @@
+.info_content_new
+{
+	display:table;
+	height:90px;
+}
+.info_content_new .info-box-text
+{
+	display: table-cell;
+    vertical-align: middle;
+}
+.info_content_new .info-box-text,
+.info_content_new .info-box-text  a
+{
+	font-size:16px;
+	font-weight:600;
+	color:#000;
+}
+.info_content_new .info-box-text  a:hover
+{
+	color:#666;
+}
